@@ -1,0 +1,21 @@
+.image__title {
+    text-align: left;
+    margin-top: 20%;
+    margin-left: 5%;
+    width: 60%;
+    padding-left: 5%;
+    color: #ffffff;
+}
+.location{
+    font-size: 35px;
+}
+.description{
+    font-size: 15px;
+}
+.btn__style{
+    padding: 2%;
+    border: none;
+    color: black;
+    background-color: #F9A51A;
+    border-radius: 2px;
+}

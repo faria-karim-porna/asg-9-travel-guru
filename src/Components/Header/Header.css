@@ -1,0 +1,35 @@
+.navbar-brand img{
+    height: 8vh;
+    filter: invert(200%); 
+} 
+
+
+.navbar .navbar-nav .nav-item .nav-link:link, .navbar .navbar-nav .nav-item .nav-link:visited{
+    /* color: #fff; */
+    color: #F9A51A;
+    
+}
+.form-control{
+    width: 50% !important;
+    height: 5vh;
+}
+/* modify the overall form size for large device */
+form{
+    width: 50%;
+}
+.log-out{
+    border: none;
+    background-color:  #F9A51A;
+    border: 1px white solid;
+    margin-top:3px;   
+}
+/* modify the input size and overall form size for very small device */
+@media (max-width: 575.98px) {
+    .form-control{
+        width: 50% !important;
+    } 
+    form{
+        width: 50% !important;
+    }
+}
+

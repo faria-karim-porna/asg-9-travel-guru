@@ -1,0 +1,19 @@
+.hotel{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    width: 70%;
+}
+.hotel-name{
+    font-weight: 400;
+}
+.hotel__img{
+    width: 70% !important;
+}
+.content__section{
+    width: 60%;
+    left: 0 !important;
+
+}

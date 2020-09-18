@@ -1,0 +1,7 @@
+.shipment-mainPage-container{
+    display: flex;
+}
+.shipment-container{
+    width: 70%;
+    border-right: 1px solid lightgray;
+}
